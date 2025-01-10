@@ -1,1 +1,17 @@
-{"__resolveType":"site/sections/Header.tsx"}
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "link": "adel",
+        "label": "adel"
+      }
+    ],
+    "buttons": [
+      {
+        "text": "adel",
+        "href": "adel"
+      }
+    ]
+  }
+}

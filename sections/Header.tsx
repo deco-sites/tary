@@ -26,7 +26,7 @@ export interface Nav {
 export default function Header({
   logo = {
     src:
-      "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1527/67120bcd-936a-4ea5-a760-02ed5c4a3d04",
+      "https://data.decoassets.com/tary/e352cc3b-9e05-4bf1-8dbd-6b51f22f5fe3/tary-logo-light.svg",
     alt: "Logo",
   },
   navigation = {
@@ -54,7 +54,10 @@ export default function Header({
 
         <div class="hidden items-center justify-between lg:flex w-full">
           <ul class="flex">
-            {navigation.links.map((link) => (
+          
+          </ul>
+          <ul class="flex gap-3 items-center">
+           {navigation.links.map((link) => (
               <li>
                 <a
                   href={link.url}
@@ -65,8 +68,6 @@ export default function Header({
                 </a>
               </li>
             ))}
-          </ul>
-          <ul class="flex gap-3">
             {navigation.buttons?.map((item) => (
               <a
                 key={item?.id}

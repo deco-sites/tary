@@ -1,14 +1,14 @@
 {
   "seo": {
     "type": "website",
-    "title": "Landing",
+    "title": "Tary Platform",
     "jsonLDs": [],
     "noIndexing": false,
-    "description": "Improve your page performance with deco.cx",
-    "titleTemplate": "Landing | deco.cx",
-    "descriptionTemplate": "%s | Deco.cx",
-    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/0fba8a8c-ee79-47e1-8f9d-863658d056cc",
-    "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/4763/1350f37f-88ab-4cf1-bcf6-c386bcf8b238"
+    "description": "Improve your compliance for your clinic",
+    "titleTemplate": "Tary A Compliance Platform | tary.care",
+    "descriptionTemplate": "%s | tary.care",
+    "favicon": "https://data.decoassets.com/tary/0b28eb15-6781-4be0-b8a8-b4f8db9f5d60/Tary-Icon.svg",
+    "image": "https://data.decoassets.com/tary/b34cc1ba-11e1-45e9-8a00-307f22fd29a3/social-image.png"
   },
   "global": [
     {

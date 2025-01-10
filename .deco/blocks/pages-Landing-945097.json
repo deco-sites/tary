@@ -1,1 +1,110 @@
-{"sections":[{"__resolveType":"site/sections/myHero.tsx","name":"works!"}],"__resolveType":"website/pages/Page.tsx","name":"Landing","path":"/landing"}
+{
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Header"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Hero.tsx",
+        "title": "<h1 style=\"text-align: center\"><strong>Self-Assessments Compliance for your Clinic</strong></h1>",
+        "description": "Quickly do your Compliance Self-Assessment for your clinic in Excel, Google Sheets. Use our templates to evaluate your processes and improve your operations!",
+        "cta": []
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/BlogPosts.tsx",
+        "title": "Self Assessment Sheet",
+        "description": "All self-assessments sheets are available for download ",
+        "posts": [
+          {
+            "tags": [
+              "1st Visit"
+            ],
+            "title": "Compliance Surveyor first visit",
+            "excerpt": "see all first surveyor evaluation critira",
+            "image": "https://data.decoassets.com/tary/dd487959-70fb-4b80-94eb-ee9ce0ff8e36/social-image.png",
+            "author": "Dr. Hani",
+            "date": "1/Jan",
+            "link": "/1visit"
+          },
+          {
+            "tags": [
+              "1st Visit"
+            ],
+            "title": "Compliance Surveyor first visit",
+            "excerpt": "see all first surveyor evaluation critira",
+            "image": "https://data.decoassets.com/tary/dd487959-70fb-4b80-94eb-ee9ce0ff8e36/social-image.png",
+            "author": "Dr. Hani",
+            "date": "1/Jan",
+            "link": "/1visit"
+          },
+          {
+            "tags": [
+              "1st Visit"
+            ],
+            "title": "Compliance Surveyor first visit",
+            "excerpt": "see all first surveyor evaluation critira",
+            "image": "https://data.decoassets.com/tary/dd487959-70fb-4b80-94eb-ee9ce0ff8e36/social-image.png",
+            "author": "Dr. Hani",
+            "date": "1/Jan",
+            "link": "/1visit"
+          }
+        ]
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Faq.tsx"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Footer.tsx",
+        "subscribe": {
+          "title": "Join our newsletter",
+          "description": "and get 10% discount",
+          "instructions": "<p>today</p>"
+        },
+        "logo": {
+          "src": "https://data.decoassets.com/tary/e352cc3b-9e05-4bf1-8dbd-6b51f22f5fe3/tary-logo-light.svg"
+        },
+        "madeWith": {
+          "label": "made with tary",
+          "src": "https://data.decoassets.com/tary/0b28eb15-6781-4be0-b8a8-b4f8db9f5d60/Tary-Icon.svg"
+        },
+        "copyright": "copy right 2025",
+        "links": [
+          {
+            "items": [
+              {
+                "label": "Signup",
+                "href": "signup"
+              }
+            ],
+            "title": "Platfrom"
+          },
+          {
+            "items": [
+              {
+                "label": "Self Assessments",
+                "href": "/self-assessments"
+              }
+            ],
+            "title": "Resources"
+          }
+        ]
+      }
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Landing",
+  "path": "/landing"
+}

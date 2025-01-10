@@ -1,1 +1,24 @@
-{"__resolveType":"site/sections/Header.tsx","navigation":{"links":[],"buttons":[]}}
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "label": "Resources ",
+        "url": "/landing"
+      }
+    ],
+    "buttons": [
+      {
+        "id": "signup",
+        "href": "signup",
+        "text": "Signup"
+      },
+      {
+        "id": "demo",
+        "href": "book-demo",
+        "text": "Book Demo",
+        "outline": true
+      }
+    ]
+  }
+}

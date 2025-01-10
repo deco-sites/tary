@@ -9,6 +9,7 @@ export interface Post {
   date: string;
   readingTime?: string;
   tags: string[];
+  link:string;
 }
 
 export interface Props {
@@ -33,6 +34,7 @@ export default function BlogPosts({
       date: "01 Apr 2024",
       readingTime: "10 min",
       tags: ["Tag #1", "Tag #2", "Tag #3"],
+      link: "",
     },
     {
       title: "Title of blogpost #2",
@@ -43,6 +45,7 @@ export default function BlogPosts({
       date: "01 Apr 2024",
       readingTime: "10 min",
       tags: ["Tag #1", "Tag #2", "Tag #3"],
+      link: "",
     },
     {
       title: "Title of blogpost #3",
@@ -53,6 +56,7 @@ export default function BlogPosts({
       date: "01 Apr 2024",
       readingTime: "10 min",
       tags: ["Tag #1", "Tag #2", "Tag #3"],
+      link: "",
     },
   ],
 }: Props) {
@@ -71,6 +75,7 @@ export default function BlogPosts({
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
           {posts?.map((post) => (
+            <a href= { post.link } >
             <div class="border border-secondary rounded-lg overflow-hidden">
               <Image
                 width={640}
@@ -101,6 +106,7 @@ export default function BlogPosts({
                 </div>
               </div>
             </div>
+            </a>
           ))}
         </div>
       </div>

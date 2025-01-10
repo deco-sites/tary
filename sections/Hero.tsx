@@ -47,7 +47,7 @@ export default function HeroFlats({
             image
               ? PLACEMENT[placement]
               : "flex-col items-center justify-center text-center"
-          } lg:py-36 gap-12 md:gap-20 items-center`}
+          } lg:py-26 gap-12 md:gap-20 items-center`}
         >
           {image && (
             <Image
