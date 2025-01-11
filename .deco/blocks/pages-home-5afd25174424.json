@@ -13,7 +13,8 @@
       "image": "https://data.decoassets.com/tary/aa52b4de-5241-4904-9d81-42df7cb134a7/Group-3171.png"
     },
     {
-      "__resolveType": "site/sections/Logos.tsx"
+      "__resolveType": "site/sections/Logos.tsx",
+      "title": "our partners"
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx"
