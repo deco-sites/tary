@@ -105,6 +105,6 @@
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
-  "name": "Landing",
-  "path": "/landing"
+  "name": "Resources",
+  "path": "/resources"
 }
