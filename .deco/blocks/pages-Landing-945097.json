@@ -67,40 +67,7 @@
     {
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
-        "__resolveType": "site/sections/Footer.tsx",
-        "subscribe": {
-          "title": "Join our newsletter",
-          "description": "and get 10% discount",
-          "instructions": "<p>today</p>"
-        },
-        "logo": {
-          "src": "https://data.decoassets.com/tary/e352cc3b-9e05-4bf1-8dbd-6b51f22f5fe3/tary-logo-light.svg"
-        },
-        "madeWith": {
-          "label": "made with tary",
-          "src": "https://data.decoassets.com/tary/0b28eb15-6781-4be0-b8a8-b4f8db9f5d60/Tary-Icon.svg"
-        },
-        "copyright": "copy right 2025",
-        "links": [
-          {
-            "items": [
-              {
-                "label": "Signup",
-                "href": "signup"
-              }
-            ],
-            "title": "Platfrom"
-          },
-          {
-            "items": [
-              {
-                "label": "Self Assessments",
-                "href": "/self-assessments"
-              }
-            ],
-            "title": "Resources"
-          }
-        ]
+        "__resolveType": "Footer"
       }
     }
   ],

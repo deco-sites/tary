@@ -1,1 +1,55 @@
-{"__resolveType":"site/sections/Footer.tsx","links":[],"bottomLinks":[],"social":[],"subscribe":{}}
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "links": [
+    {
+      "items": [
+        {
+          "label": "Signup",
+          "href": "signup"
+        }
+      ],
+      "title": "Platfrom"
+    },
+    {
+      "items": [
+        {
+          "label": "Self Assessments",
+          "href": "/self-assessments"
+        }
+      ],
+      "title": "Resources"
+    }
+  ],
+  "subscribe": {
+    "title": "Join our newsletter",
+    "description": " ",
+    "instructions": "<p> </p>"
+  },
+  "logo": {
+    "src": "https://data.decoassets.com/tary/e352cc3b-9e05-4bf1-8dbd-6b51f22f5fe3/tary-logo-light.svg"
+  },
+  "madeWith": {
+    "src": "https://data.decoassets.com/tary/0b28eb15-6781-4be0-b8a8-b4f8db9f5d60/Tary-Icon.svg",
+    "label": "tary.care"
+  },
+  "copyright": "© 2025 All rights reserved.",
+  "bottomLinks": [],
+  "social": [
+    {
+      "network": "Instagram",
+      "href": "https://www.instagram.com/tary.care/"
+    },
+    {
+      "network": "X - Twitter",
+      "href": "https://x.com/TaryCare"
+    },
+    {
+      "network": "Linkedin",
+      "href": "https://www.linkedin.com/company/%D8%B7%D8%A7%D8%B1%D9%8A/"
+    },
+    {
+      "network": "Youtube",
+      "href": "https://www.youtube.com/@Tarycare"
+    }
+  ]
+}
