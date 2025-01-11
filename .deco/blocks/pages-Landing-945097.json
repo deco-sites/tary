@@ -73,5 +73,10 @@
   ],
   "__resolveType": "website/pages/Page.tsx",
   "name": "Resources",
-  "path": "/resources"
+  "path": "/resources",
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx",
+    "type": "article",
+    "jsonLD": null
+  }
 }
