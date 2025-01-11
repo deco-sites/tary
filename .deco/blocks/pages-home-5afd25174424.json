@@ -14,10 +14,21 @@
     },
     {
       "__resolveType": "site/sections/Logos.tsx",
-      "title": "our partners"
+      "title": "OUR PARTNERS"
     },
     {
-      "__resolveType": "site/sections/ImageWithParagraph.tsx"
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "tary self-assessment template",
+      "description": "Quickly do your Compliance Self-Assessment for your clinic in Excel, Google Sheets. Use our templates to evaluate your processes and improve your operations!\n\n",
+      "image": "https://data.decoassets.com/tary/b34cc1ba-11e1-45e9-8a00-307f22fd29a3/social-image.png",
+      "cta": [
+        {
+          "style": "Outline",
+          "id": "goto-template",
+          "href": "/resources",
+          "text": "See All Templates"
+        }
+      ]
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
