@@ -3,7 +3,7 @@
     "type": "website",
     "title": "Tary Platform",
     "jsonLDs": [],
-    "noIndexing": false,
+    "noIndexing": true,
     "description": "Improve compliance for your clinic",
     "titleTemplate": "Tary A Compliance Platform | tary.care",
     "descriptionTemplate": "%s | tary.care",
