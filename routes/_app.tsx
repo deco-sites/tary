@@ -20,6 +20,8 @@ export default defineApp(async (_req, ctx) => {
 
         {/* Web Manifest */}
         <link rel="manifest" href={asset("/site.webmanifest")}/>
+
+        {/* Crisp Chat loader */}
       </Head>
 
       {/* Rest of Preact tree */}
